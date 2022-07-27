@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>TestT</name>
+        <order>100</order>
+        <roles>x_58872_needit.testt_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-27 15:52:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>372f19c82fc5111034d3bed72799b6a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TestT</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_application_372f19c82fc5111034d3bed72799b6a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-27 15:52:53</sys_updated_on>
+        <title>TestT</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>8374286fdbfb5bc08264f70fbf9619ca</instance_id>
+        <instance_name>dev70302</instance_name>
+        <name>sys_app_application_372f19c82fc5111034d3bed72799b6a6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>TestT</name><order>100</order><roles>x_58872_needit.testt_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-27 15:52:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>372f19c82fc5111034d3bed72799b6a6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>TestT</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_application_372f19c82fc5111034d3bed72799b6a6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-27 15:52:53</sys_updated_on><title>TestT</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>1276408672</payload_hash>
+        <record_name>TestT</record_name>
+        <reverted_from/>
+        <source>d0728ea32f30111034d3bed72799b633</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-27 15:52:53</sys_created_on>
+        <sys_id>b72f19c82fc5111034d3bed72799b6a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182405c64f90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-27 15:52:53</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>ff2f19c85ec51110db4147b80fb9aea7</update_guid>
+        <update_guid_history>ff2f19c85ec51110db4147b80fb9aea7:1276408672</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="TestT">5d7069c82fc5111034d3bed72799b6c0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-27 15:58:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>35d652a259434da0b20a0476aca3b900</sys_id>
+        <sys_metadata>372f19c82fc5111034d3bed72799b6a6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TestT</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_application_372f19c82fc5111034d3bed72799b6a6</sys_update_name>
+        <sys_update_version display_value="sys_app_application_372f19c82fc5111034d3bed72799b6a6">b72f19c82fc5111034d3bed72799b6a8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-27 15:58:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
